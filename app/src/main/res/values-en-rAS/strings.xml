@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CallApiInAndroidKotlin</string>
+    <string name="connection_error">Connection error</string>
+    <string name="no_internet">Please check your internet connection</string>
+</resources>
